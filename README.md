@@ -8,7 +8,7 @@ A MySQL database system to manage freelancers, clients, job postings, proposals,
 
 ## ER Diagram
 
-![ER Diagram](DBMS_Freelance Job Flatform/ER Diagram.jpg)
+![ER Diagram](ER_Diagram.jpg)
 
 ---
 
