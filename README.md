@@ -6,12 +6,6 @@ A MySQL database system to manage freelancers, clients, job postings, proposals,
 
 ---
 
-## ER Diagram
-
-![ER Diagram](ER_Diagram.jpg)
-
----
-
 ## Features
 
 - Relational schema with primary keys, foreign keys, and CHECK constraints
